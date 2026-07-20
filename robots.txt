@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /tools/
+Disallow: /README.md
+
+Sitemap: https://rayopto.ru/sitemap.xml

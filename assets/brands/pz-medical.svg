@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="PZ Medical">
+  <title>PZ Medical</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(259, 44%, 29%)"/>
+      <stop offset="1" stop-color="hsl(277, 58%, 45%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="url(#g)"/>
+  <text x="48" y="62" text-anchor="middle" fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold"
+        letter-spacing="0.5">PM</text>
+</svg>
